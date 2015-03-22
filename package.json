@@ -1,0 +1,24 @@
+{
+  "name": "swneat",
+  "version": "1.0.0",
+  "description": "starter them for wordpress with bourbon",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.4.0",
+    "gulp": "^3.8.11",
+    "gulp-ruby-sass": "^1.0.1",
+    "gulp-sass": "^1.3.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.4.0",
+    "gulp": "^3.8.11",
+    "gulp-filter": "^2.0.2",
+    "gulp-ruby-sass": "^1.0.1",
+    "gulp-sourcemaps": "^1.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunil Williams",
+  "license": "ISC"
+}
